@@ -1,2 +1,2 @@
-# Traveling-In-a-Ship
-The ship is sailing through through the sea or the ocean.
+# Travelling-in-a-ship
+The Ship goes through the journey of the sea.
